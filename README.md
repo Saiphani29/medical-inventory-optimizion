@@ -42,11 +42,3 @@ This project aims to streamline hospital inventory management by analyzing and o
 - Link live hospital inventory systems for continuous data updates
 - Extend the system to handle expiry tracking and reorder alerts
 
-## 📌 Author
-
-**Sai Phanindra**  
-[Contact Info or GitHub profile link]  
-
----
-
-This project demonstrates how basic Python tools can provide actionable insights in healthcare inventory management. Feedback and suggestions are welcome!
